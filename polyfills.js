@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/viko/Projects/CSharp/DevHive-Angular/src/polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! /home/kamen/Programming/GitHub-repos/Team-Kaleidoscope/DevHive-Angular/src/polyfills.ts */"hN/g");
 
 
 /***/ }),
