@@ -811,7 +811,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AppConstants", function() { return AppConstants; });
 class AppConstants {
 }
-AppConstants.BASE_API_URL = 'http://localhost:5000/api';
+AppConstants.BASE_API_URL = 'https://devhive-api.herokuapp.com/api';
 AppConstants.API_USER_URL = AppConstants.BASE_API_URL + '/User';
 AppConstants.API_PROFILE_PICTURE_URL = AppConstants.BASE_API_URL + '/ProfilePicture';
 AppConstants.API_FRIENDS_URL = AppConstants.BASE_API_URL + '/Friends';
